@@ -1,9 +1,9 @@
 👋 Hello, I’m Şeyma. While studying Computer Programming, my interest in the software field increased. <br>
-When I graduated from the program I studied, I wanted to advance in this field.<br>
+   When I graduated from the program I studied, I wanted to advance in this field.<br>
 👀 I try to develop sustainable projects and create user-friendly designs by writing simple, understandable, and functional code.<br>
 🌱 I love discovering and experimenting with new things while developing software.<br>
 ✨ I am currently working on the JavaScript language and its libraries.<br>
-I am developing projects with React.<br>
+   I am developing projects with React.<br>
 📫 In team projects, I enjoy listening to new ideas and generating new ideas and solutions from different perspectives.<br>
 
 # 💻 Tech Stack:
