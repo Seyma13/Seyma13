@@ -1,4 +1,4 @@
-👋 Hello, I’m Şeyma. While studying Computer Programming, my interest in the software field increased. <br>
+👋 Hi, I’m Şeyma. While studying Computer Programming, my interest in the software field increased. <br>
    When I graduated from the program I studied, I wanted to advance in this field.<br>
 👀 I try to develop sustainable projects and create user-friendly designs by writing simple, understandable, and functional code.<br>
 🌱 I love discovering and experimenting with new things while developing software.<br>
